@@ -1,10 +1,5 @@
 [
   {
-    "ts": "2026-11-26T01:23:05.141Z",
-    "source": "esp8266-test",
-    "uptime_ms": 4426451
-  },
-  {
     "ts": "2026-11-26T01:23:35.141Z",
     "source": "esp8266-test",
     "uptime_ms": 4456456
@@ -1071,5 +1066,11 @@
     "ssid": "Home",
     "uptime_ms": 3707330,
     "received_at": "2026-11-26T20:51:36.821Z"
+  },
+  {
+    "source": "esp8266-bridge",
+    "ssid": "Home",
+    "uptime_ms": 3737354,
+    "received_at": "2026-11-26T20:52:06.824Z"
   }
 ]
