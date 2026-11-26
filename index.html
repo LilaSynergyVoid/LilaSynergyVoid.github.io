@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>STM32 Last-Layer Abstract Art</title>
+  <title>☆L☆P☆S☆V☆</title>
   <style>
     :root {
       --hue-a: 210;
@@ -84,10 +84,10 @@
         const history = await res.json();
         if (!Array.isArray(history) || history.length === 0) return;
 
-        const hudEl = document.querySelector(".hud");
-        if (hudEl) {
-          hudEl.style.display = (latest.hud === false) ? "none" : "flex";
-        }
+        //const hudEl = document.querySelector(".hud");
+      //  if (hudEl) {
+        //  hudEl.style.display = (latest.hud === false) ? "none" : "flex";
+        //}
 
         const latest = history[history.length - 1];
         const vec = Array.isArray(latest.last_layer) ? latest.last_layer : [0.2, 0.5, 0.8];
