@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-25-1",
-  "stm32_bin": "stm_latest.bin",
-  "last_layer_bin": "last_layer.bin",
-  "esp8266_bin": "esp8266_latest.bin"
+  "version": "2026-11-25-v1",
+  "stm32_bin": "staged/stm_latest.bin",
+  "last_layer_bin": "staged/last_layer.bin",
+  "esp8266_bin": "staged/esp8266_latest.bin"
 }
