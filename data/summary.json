@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-26T02:00:51.249Z",
-  "totalSamples": 145,
+  "updatedAt": "2026-11-26T02:15:51.474Z",
+  "totalSamples": 175,
   "latest": {
-    "ts": "2026-11-26T02:00:37.122Z",
+    "ts": "2026-11-26T02:15:37.489Z",
     "source": "esp8266-test",
-    "uptime_ms": 6677968
+    "uptime_ms": 7578665
   }
 }
