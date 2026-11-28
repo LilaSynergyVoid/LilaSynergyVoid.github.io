@@ -2,12 +2,6 @@
   {
     "source": "esp8266-bridge",
     "ssid": "Home",
-    "uptime_ms": 159075343,
-    "received_at": "2026-11-28T16:01:05.455Z"
-  },
-  {
-    "source": "esp8266-bridge",
-    "ssid": "Home",
     "uptime_ms": 159105349,
     "received_at": "2026-11-28T16:01:35.520Z"
   },
@@ -1198,5 +1192,11 @@
     "ssid": "Home",
     "uptime_ms": 165047697,
     "received_at": "2026-11-28T17:40:37.844Z"
+  },
+  {
+    "source": "esp8266-bridge",
+    "ssid": "Home",
+    "uptime_ms": 165077709,
+    "received_at": "2026-11-28T17:41:10.916Z"
   }
 ]
